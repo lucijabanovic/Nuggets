@@ -34,4 +34,4 @@ We assume the user exits their terminal upon successful completion of the game
 To compile, simply `make`.
 
 ### Clean
-Simple type `make clean`
+Simply type `make clean`
